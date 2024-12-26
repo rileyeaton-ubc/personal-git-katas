@@ -1,3 +1,5 @@
+This is a personal copy of the original Git Katas repository for my own practice.
+
 ---
 maintainer: JKrag
 ---
